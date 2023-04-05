@@ -4,6 +4,7 @@
   "description": "examples of cypress e2e tests",
   "main": "index.js",
   "scripts": {
+    "cy:run": "cypress run",
     "cy:spec": "cypress run --spec"
   },
   "author": "",
